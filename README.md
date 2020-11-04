@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! I'm Soumya and i'm currently focused on researching about compression in neural networks and semantic segmentation. 
+### Ping me on Linkedin and email me for project collaborations.
 
 <!--
 **aymuos15/aymuos15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
