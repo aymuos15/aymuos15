@@ -2,21 +2,16 @@
 ### Ping me on Linkedin or email me for project collaborations.
 
 Linkedin - https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/
-
 email - soumyawork15@gmail.com
 
 Fields of Interest - 
-##### -> Convolutional Neural Networks
+#### -> Convolutional Neural Networks
 
--> Semantic Segmentation
+-> Semantic Segmentation            -> Compression in Neural Networks
 
--> Compression in Neural Networks
+-> Neural Architecture Search       -> Federated Learning
 
--> Neural Architecture Search
-
--> Federated Learning
-
--> Reinforcement Learning (Trying to enter the field)
+ -> Reinforcement Learning (Trying to enter the field)
 
 Always trying to figure out whether machines can think :question::grey_exclamation:
 
