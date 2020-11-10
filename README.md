@@ -1,4 +1,4 @@
-### Hi! I'm Soumya and i'm currently focused on researching about compression in neural networks and semantic segmentation. 
+### Hi! I'm Soumya! I'm currently focused on researching about compression in neural networks and semantic segmentation. 
 ### Ping me on Linkedin or email me for project collaborations.
 
 Linkedin - https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/
