@@ -1,10 +1,11 @@
 ### Hi! I'm Soumya! 
-#### I'm currently focused on researching about compression in neural networks and semantic segmentation. Ping me on Linkedin or email me for project collaborations.
+#### I'm currently focused on researching about compression in neural networks and medical image analysis. Ping me on Linkedin or email me for project collaborations.
 
 💬 [Visit My Publication on Medium](https://medium.com/data-science-community-srm)
 
 📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/)
 
+:bust_in_silhouette: [All my research is here](https://www.researchgate.net/profile/Soumya_Kundu9)
 
 Always trying to figure out whether machines can think :question::grey_exclamation:
 
