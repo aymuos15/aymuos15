@@ -1,7 +1,7 @@
 ### Hi! I'm Soumya! :sparkles:😄
 #### I'm currently focused on researching about compression in neural networks and medical image analysis. I also love Food :pizza: and Music :musical_keyboard:.
 
-💬 [Visit My Stories on Medium](https://medium.com/data-science-community-srm)
+💬 [Visit My Publication on Medium](https://medium.com/data-science-community-srm)
 
 📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/)
 
