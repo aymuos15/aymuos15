@@ -3,8 +3,8 @@
 
 💬 [Visit My Publication on Medium](https://medium.com/data-science-community-srm)
 
+📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/)
 
-📫 Linkedin - https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/
 
 Always trying to figure out whether machines can think :question::grey_exclamation:
 
