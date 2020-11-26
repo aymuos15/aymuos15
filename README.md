@@ -1,4 +1,4 @@
-### Hi! I'm Soumya! 
+### Hi! I'm Soumya! :sparkles:
 #### I'm currently focused on researching about compression in neural networks and medical image analysis. Ping me on Linkedin or email me for project collaborations.
 
 💬 [Visit My Publication on Medium](https://medium.com/data-science-community-srm)
