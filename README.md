@@ -1,5 +1,5 @@
 ### Hi! I'm Soumya! :sparkles:😄
-#### I'm currently focused on researching about compression in neural networks and medical image analysis. I also love food and Music :pizza::musical_keyboard:.
+#### I'm currently focused on researching about compression in neural networks and medical image analysis. I also love Food :pizza: and Music :musical_keyboard:.
 
 💬 [Visit My Stories on Medium](https://medium.com/data-science-community-srm)
 
