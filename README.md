@@ -1,5 +1,6 @@
-### Hi! I'm Soumya! I'm currently focused on researching about compression in neural networks and semantic segmentation. 
-### Ping me on Linkedin or email me for project collaborations.
+### Hi! I'm Soumya! 
+#### I'm currently focused on researching about compression in neural networks and semantic segmentation. 
+#### Ping me on Linkedin or email me for project collaborations.
 
 💬 [Visit My Publication on Medium](https://medium.com/data-science-community-srm)
 
