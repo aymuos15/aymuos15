@@ -5,7 +5,7 @@
 
 📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/)
 
-:bust_in_silhouette: [All my research is here](https://www.researchgate.net/profile/Soumya_Kundu9)
+:bulb: [All my research is here](https://www.researchgate.net/profile/Soumya_Kundu9)
 
 Always trying to figure out whether machines can think :question::grey_exclamation:
 
