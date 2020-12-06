@@ -9,7 +9,7 @@
 
 Always trying to figure out whether machines can think :question::grey_exclamation:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0"><img src="https://github-readme-medium-recent article.vercel.app/medium/@aymuos/0" alt="My article on how to write better articles">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aymuos15/0"><img src="https://github-readme-medium-recent article.vercel.app/medium/@aymuos15/0" alt="My article on how to write better articles">
 
 <!--
 **aymuos15/aymuos15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
