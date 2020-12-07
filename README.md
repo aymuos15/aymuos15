@@ -12,6 +12,8 @@ Always trying to figure out whether machines can think :question::grey_exclamati
 
 ##### Here is my latest blog - 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aymuos15/0" alt="Recent Article 0">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymuos15)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aymuos15/aymuos15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
