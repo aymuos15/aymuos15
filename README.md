@@ -1,4 +1,4 @@
-### Hi! I'm Soumya! :sparkles:😄
+### Hi! I'm Soumya (Shomo)! :sparkles:😄
 #### I'm currently focused on researching about compression in neural networks and medical image analysis. I also love Food :pizza: and Music :musical_keyboard:.
 
 📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/)
