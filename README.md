@@ -1,5 +1,7 @@
 ### Hi! I'm Soumya (Shomo)! :sparkles:😄
-#### I'm currently focused on researching about compression in neural networks and medical image analysis. I also love Food :pizza: and Music :musical_keyboard:.
+#### I'm currently focused on researching about Compression in Neural Networks and Medical Image Analysis. 
+#### My other interests include Self-Supervised learning, Machine Learning for High Energy Physics, Explainable AI and Neural Architecture Search.
+#### I also love Food :pizza:, Music :musical_keyboard: and football :soccer:.
 
 📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/)
 
