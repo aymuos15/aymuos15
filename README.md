@@ -1,6 +1,6 @@
 ### Hi! I'm Soumya (Shomo) Kundu! 😄 :sparkles:
-#### I'm currently focused on researching about Compression in Neural Networks and Medical Image Analysis. 
-#### My other interests are Self-Supervised learning, Deep Learning for High Energy Physics, Explainable AI and Neural Architecture Search.
+#### I'm currently focused on researching about Neural Net Compression, Medical Image Analysis and Deep Learning for High Energy Physics.
+#### My other interests are Self-Supervised learning, Explainable AI and Neural Architecture Search.
 #### I also love Food :pizza:, Music :musical_keyboard: and Football :soccer:.
 
 📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/)
