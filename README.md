@@ -1,5 +1,5 @@
 ### Hi! I'm Soumya (Shomo) Kundu! 😄 :sparkles:
-#### I'm currently focused on researching on the domains of Medical Image Analysis and  Deep Learning for High Energy Physics. 
+#### I'm currently focused on the domains of Medical Image Analysis and  Deep Learning for High Energy Physics. 
 #### I also focus on the paradigms of Self-Supervised learning, Neural Net Compression and  Explainable AI.
 #### I also love Food :pizza:, Music :musical_keyboard: and Football :soccer:.
 
