@@ -12,7 +12,7 @@
 Always trying to figure out whether machines can think :question::grey_exclamation:
 
 
-##### Here is my latest blog - 
+##### Here is my latest blog (I am the Editor-in-Chief @ [DataX Journal](https://medium.com/data-science-community-srm)) -
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aymuos15/2" alt="Recent Article 0">
   
 
