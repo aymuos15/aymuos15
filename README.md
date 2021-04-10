@@ -1,12 +1,12 @@
 ### Hi! I'm Soumya (Shomo) Kundu! 😄 :sparkles:
-#### I'm currently focused on the domains of Medical Image Analysis and  Deep Learning for High Energy Physics. 
-#### I also work on the paradigms of Self-Supervised learning, Neural Net Compression and  Explainable AI.
+#### I focus on the domains of Medical Image Analysis and Deep Learning for High Energy Physics. 
+#### I work on the paradigms of Self-Supervised learning, Neural Net Compression and Explainable AI.
 
 📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/)
 
 :bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9)
 
-I love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying to figure out whether machines can think :question::grey_exclamation:
+Love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying to figure out whether machines can think :question::grey_exclamation:
 
 
 ##### Here is my latest blog (I am the Editor-in-Chief @ [DataX Journal](https://medium.com/data-science-community-srm)) -
