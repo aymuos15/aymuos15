@@ -5,8 +5,6 @@
 
 📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/)
 
-💬 [Visit my Publication on Medium](https://medium.com/data-science-community-srm)
-
 :bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9)
 
 Always trying to figure out whether machines can think :question::grey_exclamation:
@@ -18,6 +16,7 @@ Always trying to figure out whether machines can think :question::grey_exclamati
 
 
 <!--
+💬 [Visit my Publication on Medium](https://medium.com/data-science-community-srm)
 **aymuos15/aymuos15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
