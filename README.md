@@ -1,6 +1,7 @@
 ### Hi! I'm Soumya (Shomo) Kundu! 😄 :sparkles:
-#### I focus on the domains of Medical Image Analysis and Deep Learning for High Energy Physics. 
-#### I work on the paradigms of Self-Supervised learning, Neural Net Compression and Explainable AI.
+#### My main expertise lies in Algorithmic development of Convolutional Neural Network models for various domains of vision tasks. 
+I focus on the domains of Medical Image Analysis and Deep Learning for High Energy Physics. 
+I work on the paradigms of Self-Supervised learning, Neural Net Compression and Explainable AI.
 :bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9)
 
 Love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying to figure out whether machines can think :question::grey_exclamation:
