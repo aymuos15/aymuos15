@@ -5,7 +5,7 @@ Main fields of Focus - Medical Image Analysis and High Energy Physics.
 
 Interested Paradigms of Study - Self Supervised Learning and Explainable AI.
 
-Interested Fields - Computational Imaging, Autonomous Vehicles.
+Interested Fields - Computational Imaging, Autonomous Vehicles, High Performance Computing and Privacy.
 
 :bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9)
 
