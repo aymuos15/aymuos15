@@ -12,6 +12,7 @@ Love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying
 #### Here is my latest blog (I am the Editor-in-Chief @ [DataX Journal](https://medium.com/data-science-community-srm)) -
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aymuos15/2" alt="Recent Article 0">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 
   
