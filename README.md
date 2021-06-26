@@ -7,7 +7,7 @@ Interested Paradigms of Study - Self Supervised Learning and Explainable AI.
 
 Interested Fields - Computational Imaging, Autonomous Vehicles, High Performance Computing and Privacy.
 
-:bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9)
+:bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9) <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 
 Love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying to figure out whether machines can think :question::grey_exclamation:
 
