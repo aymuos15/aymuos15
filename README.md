@@ -1,13 +1,9 @@
 ### Hi! I'm Soumya (Shomo) Kundu! 😄 :sparkles:
 #### My main expertise lies in Algorithmic development of Convolutional Neural Network models for various domains of vision tasks. 
 
-Main fields of Focus - Medical Image Analysis and High Energy Physics. 
+Main fields of Focus - Deep Learining and Computer Vision. 
 
-Interested Paradigms of Study - Self Supervised Learning and Explainable AI.
-
-Interested Fields - Computational Imaging, Autonomous Vehicles, High Performance Computing and Privacy.
-
-:bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9) <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+:bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9) 
 
 Love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying to figure out whether machines can think :question::grey_exclamation:
 
@@ -15,6 +11,9 @@ Love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying
 
 #### Here is my latest blog (I am the Editor-in-Chief @ [DataX Journal](https://medium.com/data-science-community-srm)) -
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aymuos15/2" alt="Recent Article 0">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+
   
 
 
