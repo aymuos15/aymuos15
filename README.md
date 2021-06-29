@@ -10,7 +10,7 @@ Love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying
 📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/)
 
 #### Here is my latest blog (I am the Editor-in-Chief @ [DataX Journal](https://medium.com/data-science-community-srm)) -
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aymuos15/2" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aymuos15/1" alt="Recent Article 0">
 
   
 
