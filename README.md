@@ -2,6 +2,7 @@
 #### My main expertise lies in Algorithmic development of Convolutional Neural Network models for various domains of vision tasks. 
 
 Main fields of Focus - Deep Learining and Computer Vision. 
+
 Applied Areas - Medical Image Analysis, High Energy Physics and Autonomous Vehicles.
 
 :bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9) 
