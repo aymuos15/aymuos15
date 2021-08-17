@@ -5,6 +5,8 @@ Main fields of Focus - Deep Learining and Computer Vision.
 
 Applied Areas - Medical Image Analysis, High Energy Physics and Autonomous Vehicles.
 
+I am also interested in self supervised learning and distributed deep learning. 
+
 :bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9) 
 
 Love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying to figure out whether machines can think :question::grey_exclamation:
