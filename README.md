@@ -1,5 +1,5 @@
 ### Hi! I'm Soumya (Shomo) Kundu! 😄 :sparkles:
-#### My main expertise lies in Algorithmic development of Convolutional Neural Network models for various domains of vision tasks. 
+#### My main expertise lies in Algorithmic development of Deep Neural Networks for various domains of vision tasks. 
 
 Main fields of Focus - Deep Learning, Computer Vision and Self Supervised Learning. 
 
