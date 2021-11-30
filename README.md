@@ -14,7 +14,7 @@ Love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying
 📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/)
 
 
-  
+My current path is focused on proceeding with my academic career onto a graduate program. 
 
 
 <!--
