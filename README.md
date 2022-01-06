@@ -7,11 +7,11 @@ Applied Areas - Medical Image Analysis, High Energy Physics and Autonomous Vehic
 
 I am also interested in Distributed Deep Learning, Neural Network Compression and Interpretability.
 
-:bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9) 
+:bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9) | [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
 
 Love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying to figure out whether machines can think :question::grey_exclamation:
 
-📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/) | [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
+📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/) 
 
 
 My current path is focused on proceeding with my academic career onto a graduate program. 
