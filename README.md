@@ -1,9 +1,9 @@
 ### Hi! I'm Soumya (Shomo) Kundu! 😄 :sparkles:
 #### My main expertise lies in Algorithmic development of Deep Neural Networks for various domains of vision tasks. 
 
-Main fields of Focus - Deep Learning, Computer Vision and Self Supervised Learning. 
+Main fields of Focus - Deep Learning, Computer Vision (Primary) and Self Supervised Learning. 
 
-Applied Areas - Medical Image Analysis, High Energy Physics and Autonomous Vehicles.
+Applied Areas - Medical Image Analysis (Primary), High Energy Physics and Autonomous Vehicles.
 
 I am also interested in Distributed Deep Learning, Neural Network Compression and Interpretability.
 
