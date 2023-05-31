@@ -2,8 +2,6 @@
 
 I work on Deep Learning and Medical Image Computing. :bulb: [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
 
-📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/) 
-
 
 <!--
 💬 [Visit my Publication on Medium](https://medium.com/data-science-community-srm)
