@@ -1,20 +1,12 @@
 ### Hi! I'm Soumya (Shomo) Kundu! 😄 :sparkles:
-#### My main expertise lies in Algorithmic development of Deep Neural Networks for various domains of vision tasks. 
 
-Main fields of Focus - Deep Learning, Computer Vision (Primary) and Self Supervised Learning. 
-
-Applied Areas - Medical Image Analysis (Primary), High Energy Physics and Autonomous Vehicles.
-
-I am also interested in Distributed Deep Learning, Neural Network Compression and Interpretability.
+I work on Deep Learning and Medical Image Computing. 
 
 :bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9) | [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
 
 Love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying to figure out whether machines can think :question::grey_exclamation:
 
 📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/) 
-
-
-My current path is focused on proceeding with my academic career onto a graduate program. 
 
 
 <!--
