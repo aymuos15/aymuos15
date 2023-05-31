@@ -1,10 +1,6 @@
 ### Hi! I'm Soumya (Shomo) Kundu! 😄 :sparkles:
 
-I work on Deep Learning and Medical Image Computing. 
-
-:bulb: [View my Research here](https://www.researchgate.net/profile/Soumya_Kundu9) | [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
-
-Love Food :pizza:, Music :musical_keyboard: and Football :soccer:. Always trying to figure out whether machines can think :question::grey_exclamation:
+I work on Deep Learning and Medical Image Computing. :bulb: [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
 
 📫 [Connect with me on Linkedin](https://www.linkedin.com/in/soumya-snigdha-kundu-84b812183/) 
 
