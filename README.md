@@ -1,6 +1,6 @@
-### Hi! I'm Soumya (Shomo) Kundu! 😄 :sparkles:
+### Hi! I'm Soumya (Shomo) Kundu! 😄
 
-I work on Deep Learning and Medical Image Computing. :bulb: [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
+I work on Deep Learning, Computer Vision and Medical Image Computing. :bulb: [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
 
 
 <!--
