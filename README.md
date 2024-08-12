@@ -1,6 +1,8 @@
 ### Hi! I'm Soumya! :)
 
-I work on Deep Learning, Computer Vision and Medical Image Computing. :bulb: [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
+I work on Deep Learning, Computer Vision and Medical Image Computing. 
+
+[G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
 
 
 <!--
