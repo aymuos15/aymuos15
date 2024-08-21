@@ -1,6 +1,6 @@
 ### Hi! I'm Soumya! :)
 
-I am a Ph.D. Student @CAI4CAI advised by @tvercaut. I work on Privacy-Preserving Medical Image Analyais.
+I am a Ph.D. Student [@CAI4CAI](https://github.com/cai4cai) advised by [@tvercaut](https://github.com/tvercaut). I work on Privacy-Preserving Medical Image Analyais.
 
 [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
 
