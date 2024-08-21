@@ -4,6 +4,8 @@ I work on Deep Learning, Computer Vision and Medical Image Computing.
 
 [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
 
+[PyTorch-Forums](https://discuss.pytorch.org/u/soumya_kundu/summary)
+
 
 <!--
 💬 [Visit my Publication on Medium](https://medium.com/data-science-community-srm)
