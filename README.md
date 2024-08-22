@@ -1,6 +1,6 @@
 ### Hi! I'm Soumya! :)
 
-I am a Ph.D. Student [@CAI4CAI](https://github.com/cai4cai) advised by [@tvercaut](https://github.com/tvercaut). I work on Trustworthy Medical Image Analyais.
+I work on Trustworthy Medical Image Analyais.
 
 [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
 
