@@ -1,6 +1,6 @@
 ### Hi! I'm Soumya! :)
 
-I work on Trustworthy Medical Image Analyais.
+I work on Trustworthy Medical Image Analysis.
 
 [G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
 
