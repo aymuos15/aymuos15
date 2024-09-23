@@ -2,9 +2,14 @@
 
 I work on Trustworthy Medical Image Analysis.
 
-[G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en)
+I primarily have 4 types of repos.
 
-[PyTorch-Forums](https://discuss.pytorch.org/u/soumya_kundu/summary)
+1. Papers (Filter keyword: Official) -- Code for my published papers and preprints.
+2. Code Optimisations (Filter keyword: Optimisation) -- Trying to solve issues I and others face on a daily basis (or rarely!)
+3. Tutorials (Filter keyword: Tutorials) -- These are helpful tutorials I have created to help myself and hopefully you :)
+4. Hackathon Projects (Filter keyword: Hackathon) -- Code of my projects built during Hackathons.
+
+[G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en) | [PyTorch-Forums](https://discuss.pytorch.org/u/soumya_kundu/summary)
 
 
 <!--
