@@ -2,8 +2,6 @@
 
 I work on Trustworthy Medical Image Analysis.
 
-I primarily have 4 types of repos.
-
 1. **Papers**             -- Code for my published work. [Filter keyword: Official]
 2. **Code Optimisations** -- Solving daily struggles. [Filter keyword: Optimisation]
 3. **Tutorials**          -- Back to basics! [Filter keyword: Tutorials]
