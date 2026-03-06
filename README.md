@@ -9,4 +9,4 @@ I work on Trustworthy Medical Image Analysis.
 4. **Hackathon Projects** -- Projects built in Hackathons. [Filter keyword: Hackathon]
 -->
 
-[G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en) | [PyTorch-Forums](https://discuss.pytorch.org/u/soumya_kundu/summary) | [AlphaXiv](https://www.alphaxiv.org/profile/6770c388aa490fa39fe15b19/aymuos)
+[G-Scholar](https://scholar.google.com/citations?user=WmHtKBYAAAAJ&hl=en) | [PyTorch-Forums](https://discuss.pytorch.org/u/soumya_kundu/summary)
