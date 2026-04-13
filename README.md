@@ -1,6 +1,6 @@
 ### Hi! I'm Soumya! :)
 
-I work on Trustworthy Medical Image Analysis.
+I work on Deep Learning and NeuroOncology. 
 
 <!---
 1. **Papers**             -- Code for my published work. [Filter keyword: Official]
