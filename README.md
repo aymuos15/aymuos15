@@ -1,5 +1,3 @@
-### Hi, I'm Soumya :)
-
 I work on Deep Learning and NeuroOncology. 
 
 <!---
